@@ -7,5 +7,4 @@ O Azure OpenAI é uma plataforma de computação em nuvem que oferece serviços 
 A plataforma combina a escalabilidade e flexibilidade do Azure com a expertise em IA da OpenAI, permitindo que os usuários desenvolvam e implantem modelos de IA.
 O Azure OpenAI fornece uma gama de serviços de IA, visão computacional, processamento de linguagem natural, aprendizado de máquina, análise de dados e muito mais. 
 
-
-
+![image](https://github.com/alexsandrolechner/dio-azureOpenAI/assets/5125303/48a0b167-43a9-49be-8369-82d320c604cd)
