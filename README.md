@@ -1,5 +1,12 @@
 # dio-azureOpenAI
-Conteudo do projeto Azure OpenAI
+Conteudo do projeto Azure OpenAI.
+
+Conteudo desenvolvido por Alexsandro Lechner: 
+
+https://www.linkedin.com/in/alexsandrolechner/
+
+https://lift2cloud.online/
+
 
 ![image](https://github.com/alexsandrolechner/dio-azureOpenAI/assets/5125303/53ee5440-df99-4b26-af0d-b1a6f34f4364)
 
